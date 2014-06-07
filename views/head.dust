@@ -1,0 +1,11 @@
+<head>
+    <meta charset="utf-8">
+    <!--[if lte IE 9]><script>document.getElementsByTagName('html')[0].className += ' ie';</script><![endif]-->
+    <!--[if lte IE 8]><script>document.getElementsByTagName('html')[0].className += ' ie8Less';</script><![endif]-->
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>Mongan Web || Development</title>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="canonical" href="monganweb.com">
+    {>headCss/}
+</head>

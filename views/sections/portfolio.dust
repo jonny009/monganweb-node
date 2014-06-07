@@ -1,0 +1,19 @@
+<section class="section"  data-title="{title}" data-scale-up>
+    <div class="sectionContent">
+        <h1 class="mwSectionTitle">Portfolio</h1>
+        <div class="mwSection">
+            <div class="mwPortfolioCon">
+                <button type="button" class="mwPortArrow icon iconLeftArrow" data-ng-click="changeSlide('back')"></button>
+                <button type="button" class="mwPortArrow icon iconRightArrow" data-ng-click="changeSlide('next')"></button>
+                <div class="mwSlideMask">
+                    <div class="mwSlideCon" data-ng-style="slideConStyle()">
+                        <div class="mwSlide [[slide.name]]" ng-repeat="slide in slides.data" style="background-image:url('public/images/portfolio/[[slide.image]]');">
+                            <button type="button" class="mwSlideOverlay" data-url="[[slide.url]]" data-image="[[slide.image]]" data-ng-click="showModal($event)"></button>
+                            <div class="mwSlideText" ng-bind="slide.text"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

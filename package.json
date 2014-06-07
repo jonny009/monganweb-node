@@ -1,0 +1,20 @@
+{
+  "name": "hello-world",
+  "description": "hello world test app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.3.0",
+    "cookie-parser": "*",
+    "body-parser": "*",
+    "method-override": "*",
+    "errorhandler": "*",
+    "serve-favicon": "*",
+    "express-session": "*",
+    "dustjs-linkedin": "*",
+    "dustjs-helpers": "*",
+    "consolidate": "*",
+    "less-middleware": "*",
+    "morgan": "*"
+  }
+}

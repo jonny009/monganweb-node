@@ -1,0 +1,9 @@
+<aside class="mwMenu">
+    <ul class="mwMenuList">
+        <li><a class="mwMenuLink" data-ng-click="goToSection('home')">Home</a></li>
+        <li><a class="mwMenuLink" data-ng-click="goToSection('development')">About</a></li>
+        <li><a class="mwMenuLink" data-ng-click="goToSection('clients')">Clients</a></li>
+        <li><a class="mwMenuLink" data-ng-click="goToSection('portfolio')">Portfolio</a></li>
+        <li><a class="mwMenuLink" data-ng-click="goToSection('contact')">Contact</a></li>
+    </ul>
+</aside>

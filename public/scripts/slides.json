@@ -1,0 +1,92 @@
+[
+    {
+        "name": "angularPres",
+        "url": "monganweb.com/sandbox/angularPresentation",
+        "text": "I was asked to give a presentation on AngularJS to the front-end department at Ancestry.com. To highlight how to build a single-page app using AngularJS best practices while still maintaining SEO, I created this slideshow.",
+        "image": "angularpres.png"
+    },
+    {
+        "name":"singleton",
+        "url":"singletonandself.com",
+        "text":"Singleton &amp; Self is Chris Adams, a San Francisco-based UX designer.  His new site needed to reflect his personal commitment to excellency, and be fully device agnostic. Because the touch interactions needed to feel intuitive and smooth, every aspect of this site was created from scratch and tailored to meet Chris\" individual needs.",
+        "image": "singletonself.png"
+    },
+    {
+        "name":"earcrush",
+        "url":"earcrush.com",
+        "text":"Earcrush is a social media startup for musicians and fans.  The company is in the earliest stages, and needed a landing page to tease potential users with the the planned features while creating an expectation for quality and creativity. I created a custom, dual parallax effect in addition to auto-scrolling, slideshows and email service provider integration.",
+        "image": "earcrushlanding.png"
+    },
+    {
+        "name": "responsive",
+        "url": "monganweb.com/responsive",
+        "text": "A demo created in 2012 to showcase what a responsive site could do.",
+        "image": "responsive_demo.png"
+    },
+    {
+        "name": "mwMobile",
+        "url": "m.monganweb.com/",
+        "text": "jQuery Mobile version of my old site, created in 2012.",
+        "image": "mw-mobile.png"
+    },
+    {
+        "name": "clAbout",
+        "url": "www.corelogic.com/about-us/our-company.aspx",
+        "text": "CoreLogic is a multi-billion dollar organization providing data, tools and research to a diverse range of industries. When the company needed a new look for the About Us section, they asked me to implement the design. I worked with the designer to maintain a unified scheme for the entire section, while working within the site structure dictated by the CMS. Because the CMS only allowed a limited number of levels within the existing tabs, I created a number of solutions for the client to choose from.",
+        "image": "cl_about_us_lg.png"
+    },
+    {
+        "name": "clCoreScore",
+        "url": "",
+        "text": "CoreLogic is a multi-billion dollar organization providing data, tools and research to a diverse range of industries. CoreScore is a supplemental credit report launched in November of 2011. I helped create a number of landing pages throughout the launch cycle, including the current iteration. This involved adapting my code to integrate smoothly with the company's CMS (content management system) while maintaining the designer's approved design.",
+        "image": "core_score_lg.png"
+    },
+    {
+        "name": "clDefaultView",
+        "url": "",
+        "text": "CoreLogic is a multi-billion dollar organization providing data, tools and research to a diverse range of industries. DefaultView is a cloud-based technology platform developed for the default servicing industry. Throughout the stages of release, I worked with CoreLogic to develop email campaigns and a landing page. Much like the CoreScore landing pages, this mini-site involved integrating my code with the CMS to preserve the approved design.",
+        "image": "default_view_lg.png"
+    },
+    {
+        "name": "mansfield",
+        "url": "",
+        "text": "Mansfield Ink is the corporate identity of L.G. (Elle) Mansfield, a ghostwriter and copywriter out of Nevada City, CA. I developed the code for the site, as well as the scripts for the portfolio sections. This was one of my earliest sites, which gave me an opportunity to see my growth when Elle decided to return to her roots and created her new company, Blue Fig Creative.",
+        "image": "mansfield_lg.png"
+    },
+    {
+        "name": "blueFig",
+        "url": "bluefigcreative.com/",
+        "text": "Blue Fig Creative is the new company created by the ghostwriter/copywriter formerly known as L.G. Mansfield. Now known as Elle Gianforte, she needed a new site to reflect her new company. I was able to take the general design used for mansfieldink.com and adapt it to suit a new palette and logo. I was also very pleased to be able to clean up and improve on my original code.",
+        "image": "bluefigcreative_lg.png"
+    },
+    {
+        "name": "mgPort",
+        "url": "mongangroup.com/portfolio/",
+        "text": "As one of my professional affiliates, I was pleased when Vicki Mongan, the founder of the Mongan Group, came to me to develop a new approach to her portfolio section. As the original format used a seperate page for each sample, I felt that there was room for streamlining. With Javascript, I reduced the overall page number to one page per section while preserving the ability to link directly to a sample using unique urls.",
+        "image": "mong_pf_lg.png"
+    },
+    {
+        "name": "mgCard",
+        "url": "http://mongangroup.com/card/",
+        "text": "To say thank you for a great year, Vicki Mongan—the founder of the Mongan Group—asked me to create a fun Flash card she could send to clients. I developed the idea, created original artwork, developed the ActionScript and blocked out all the motion.",
+        "image": "mcard_lg.png"
+    },
+    {
+        "name": "clTrySafe",
+        "url": "monganweb.com/try_safe.html",
+        "text": "CoreLogic is a multi-billion dollar organization, providing data, tools and research to a diverse range of industries. To help drive tradeshow traffic to their booth, CoreLogic brought me in to create a Flash-based 'game' that tied into their TrySafe program. Over the years, this game has been tweaked and revised to suit a number of different themes. It has been a big success and great lead generator for the company.",
+        "image": "facl_lg.png"
+    },
+    {
+        "name": "clMBACard",
+        "url": "http://monganweb.com/CL_booth-cards.html",
+        "text": "CoreLogic is a multi-billion dollar organization, providing data, tools and research to a diverse range of industries. Because of the success of the TrySafe Vault game I developed, the company wanted a new game to entice attendees at the 2011 MBA Annual Conference. They wanted to take advantage of touchscreen monitors and tie the whole thing into their theme of being 'future ready.'' I worked with the company from conception to deployment. (It's programmed so that every 3rd attempt is a win).",
+        "image": "CL_booth-cards_lg.png"
+    },
+    {
+        "name": "perryComm",
+        "url": "monganweb.com/PerryComm.html",
+        "text": "I was contacted by a designer to turn her concept into a number of Flash banner ads. In addition to this sample, I developed two further sizes to suit the different sites the ad would run on.",
+        "image": "perrycomm_lg.png"
+    }
+]

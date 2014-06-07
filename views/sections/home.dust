@@ -1,0 +1,8 @@
+<section class="section" data-background="public/images/wood.jpg" data-title="{title}">
+    <div class="sectionContent">
+        <h1 class="mwSectionTitle">Welcome</h1>
+        <div class="mwSection">
+            <p class="mwText"><span class="highlight">Mongan Web</span> is Jon Mongan, a front-end developer with more than 7 years' experience and a background in marketing and copywriting.</p>
+        </div>
+    </div>
+</section>

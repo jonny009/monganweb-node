@@ -1,0 +1,12 @@
+<section class="section"  data-title="{title}" data-slide-in-left>
+    <div class="sectionContent">
+        <h1 class="mwSectionTitle">Clients</h1>
+        <div class="mwSection">
+            <ul class="mwClientList clear">
+                {#mwData.clientList}
+                <li>{.}</li>
+                {/mwData.clientList}
+            </ul>
+        </div>
+    </div>
+</section>

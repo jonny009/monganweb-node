@@ -1,0 +1,11 @@
+<section class="section"  data-title="{title}" data-spin-in>
+    <div class="sectionContent">
+        <h1 class="mwSectionTitle">Development</h1>
+        <div class="mwSection">
+            <h2 class="mwTitle">I turn beautiful designs into beautiful sites.</h2>
+            <p class="mwText"><span class="highlight">And ugly designs into ugly sites.</span> Design isn't what I do. I code the design you give me, exactly the way you designed it. Because the last thing you want is some developer telling you how to do your job.</p>
+            <p class="mwText"><span class="highlight">But that's just the tip of the iceberg.</span> I work with you, the client, to create a unique user experience, custom tuned to meet your needs with cross-browser functionality.</p>
+            <p class="mwText"><span class="highlight">Proficiencies:</span> HTML5, CSS3, Javascript, JQuery, AngularJS, AJAX applications</p>
+        </div>
+    </div>
+</section>

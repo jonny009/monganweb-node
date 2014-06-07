@@ -1,0 +1,14 @@
+<section class="section"  data-title="{title}" data-scroll-opposite>
+    <div class="sectionContent">
+        <h1 class="mwSectionTitle">Contact</h1>
+        <div class="mwSection">
+            <h2 class="mwTitle">jon mongan</h2>
+            <p class="mwText highlight">{mwData.contactInfo.phone}</p>
+            <ul class="mwContactList">
+                <li><a href="mailto:{mwData.contactInfo.email}" class="mwLink">jon[at]monganweb[dot]com</a></li>
+                <li><a href="{mwData.contactInfo.resume}" class="icon iconPdf mwLink">download resumé</a></li>
+                <li><a href="{mwData.contactInfo.linkedin}" class="icon iconLinkedIn mwLink">Linkedin</a></li>
+            </ul>
+        </div>
+    </div>
+</section>

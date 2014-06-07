@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    {>head/}
+    <body data-ng-app="MonWeb" data-ng-controller="MwCtrl" data-ng-click="toggleMenu($event)" data-ng-class="{menuVisible: menuVisible, modalShown: modal.shown, touch: isTouch}">
+        <div class="oldBrowserBlock">
+            <h1 class="mwTitle textCenter">Please upgrade your browser</h1>
+        </div>
+        {>mwHeader/}
+        {>menu/}
+        <main class="mwWrap">
+            {#mwData.contentSections}
+                {> "sections/{title}" /}
+            {/mwData.contentSections}
+        </main>
+        {>portModal/}
+        {>bottomScript/}
+    </body>
+<!--
+{session}
+-->
+</html>

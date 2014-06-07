@@ -1,0 +1,10 @@
+<section id="mwModal" data-ng-class="{modalHidden: modal.hidden == true, modalHiding: modal.hidden == 'hiding'}" data-ng-click="hideModal()">
+    <div class="mwModalCon">
+        <div class="mwModalImage" data-ng-style="modal.imageCss"></div>
+        <div class="mwModalTextCon">
+            <p data-ng-bind="modal.text"></p>
+        </div>
+        <a class="mwModalVisit icon iconExternal" ng-class="{hiddenLink: modal.link == null}" ng-href="[[modal.link]]" target="_blank"></a>
+        <button type="button" class="icon iconClose mwModalClose" data-ng-click="hideModal()"></button>
+    </div>
+</section>
